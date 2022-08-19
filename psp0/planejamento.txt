@@ -1,0 +1,23 @@
+linguagem que utilizarei: python
+
+como inserir numeros para calculo?
+atraves do teclado
+
+quantas linhasvai dar o programa? 
+em torno de 100
+
+quanto tempo vou utilizar?
+em torno de 1h
+
+o que tenho que pesquisar?
+como receber entradas do teclado em python: 
+n1 = input('primeiro numero')
+como calcular desvio padrao:
+import statistics
+
+list = [12, 24, 36, 48, 60]
+print("List : " + str(list))
+
+st_dev = statistics.pstdev(list)
+print("Standard deviation of the given list: " + str(st_dev))
+- vou utilizar uma var de tamanho para saber quantos numeros a pessoa vai inserir na lista para o calculo da media e dp
