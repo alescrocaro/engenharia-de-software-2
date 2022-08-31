@@ -1,0 +1,11 @@
+Como contar linhas?
+  utilizar \n para verificação https://acervolima.com/contar-o-numero-de-linhas-em-um-arquivo-de-texto-em-python/#:~:text=Abra%20o%20arquivo%20no%20modo,encontrem%20um%20%E2%80%9C%5C%20n%E2%80%9D.
+
+
+Como verificar se é uma função?
+  verificar se a ocorrencia de um "def" no inicio da linha
+  para verificar o fim da função, vou utilizar um comentario "#end-function" para facilitar
+
+para dividir em partes:
+  vou contar linhas de funçoes e subtrair das linhas totais para obter linhas 'globais' 
+  serao as 2 partes dos meus codigos: global e função
