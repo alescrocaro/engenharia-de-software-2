@@ -1,4 +1,0 @@
-bug: adicionar média de linhas em funções
-5min
-
-59linhas
