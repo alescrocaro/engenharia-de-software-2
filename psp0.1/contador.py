@@ -15,7 +15,6 @@ def contaLinhasDeFuncoes(linhas):
   qtdFuncoes = 0
 
   for linha in linhas:
-    print(linha)
     if (linha[0:3] == 'def') and (aux != -1):
       inicio = i
       aux = -1
