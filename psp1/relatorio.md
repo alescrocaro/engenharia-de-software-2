@@ -137,5 +137,4 @@ def test_b1():
 ```
 
 ## Resultado dos testes
-
-print
+![resultado teste](https://user-images.githubusercontent.com/37521313/189774603-45034af5-4f11-42de-8a2f-64e3544df759.png)
