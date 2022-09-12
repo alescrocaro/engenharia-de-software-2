@@ -1,6 +1,10 @@
 # PSP1 - Programa 3
 
 ## Formulário de resumo de planejamento de projeto
+* Li o documento de descrição do programa 3
+* Procurei por códigos ou bibliotecas de regressão linear em python 
+* Percebi que seria mais fácil implementar a fórmula que está no documento
+* Finalizei definindo os passos que faria para implementar a fórmula (seguindo o exemplo de cálculo contido no documento)
 
 ## Modelo de relato de testes
 ?
@@ -13,18 +17,34 @@ pip install pytest
 
 ## Modelo para estimativa de tamanho
 ?
+C
 
 ## Folha de cálculos do PROBE
 ![PROBE Report](https://user-images.githubusercontent.com/37521313/189774757-5b62ec38-6a8e-41b5-9841-1ec668f26e8c.png)
 
 ## Registro de tempo 
-print
+![Registro de tempo](https://user-images.githubusercontent.com/37521313/189775387-b4470123-467e-43c3-91de-d6f8c76c2e18.png)
 
 ## Registro de erros
-print + explicacoes?
+- ERRO 1
+    - Tipo: Function 
+    - Injetado: Code
+    - Removido: After Development
+    - Tempo: 5,7
+    - Contador: 1
+    - Descrição: rxy e r2 estão incorretos. Era um erro de precedência que cometi, copiei a fórmula errado.
+    - Data: 08/09/2022
+    
+- ERRO 2
+    - Tipo: Environment
+    - Injetado: Test
+    - Removido: After development
+    - Tempo: 5
+    - Contador: 1
+    - Descrição: estava tentando passar dados por parametro no pytest, o q n pode ser feito.
+    - Data: 12/09/2022
 
 ## Listagem do código fonte do programa
-
 ```python
 # regressaoLinear.py
 import math
