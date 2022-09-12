@@ -27,11 +27,6 @@ def calculaDados(x, y, n, xk, xTotal = 0, xAvg = 0, xQuad = 0, yTotal = 0, yAvg 
 #end-function
 
 
-def test_b1(x, y, n, xk):
-    b1 = calculaDados(x, y, n, xk)
-    assert b1 == 1.727932
-#end-function
-
 ########################
 print('CASO DE TESTE 1')
 
@@ -41,8 +36,6 @@ x = [130, 650, 99, 150, 128, 302, 95, 945, 368, 961]
 y = [186, 699, 132, 272, 291, 331, 199, 1890, 788, 1601]
 
 b1, b0, rxy, r2, yk = calculaDados(x, y, n, xk)
-
-test_b1(x, y, n, xk)
 
 print('b1: ', b1)
 print('b0: ', b0)
