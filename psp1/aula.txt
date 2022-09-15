@@ -1,0 +1,3 @@
+refatoração codigo: 
+    inicio 14h30
+    fim 14h42

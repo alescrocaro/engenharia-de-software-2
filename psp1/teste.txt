@@ -1,2 +1,0 @@
-inicio: 15h05
-termino: 15h12
