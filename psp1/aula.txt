@@ -1,3 +1,6 @@
 refatoração codigo: 
     inicio 14h30
     fim 14h42
+
+testes pós programa finalizado
+    1h30
