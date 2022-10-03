@@ -1,0 +1,12 @@
+ini 14h54
+fim 
+
+Vou utilizar funções como cada faixa - LOC/metodo
+
+metodo p calcular média dos n valores logaritmos naturais.
+metodo p calcular a variância dos valores.
+metodo p calcular desvio padrao
+metodo p calcular cada faixa em logn 
+metodo p converter valores das faixas em logn para obter os valores limites em cada faixa
+
+fazer teste com tabelas 1 e 2 
