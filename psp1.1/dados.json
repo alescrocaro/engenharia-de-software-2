@@ -1,106 +1,135 @@
 {
-    "table1": [{
-        "each_char": {
+    "table1": [
+        {
+            "name": "each_char",
             "size": 18,
             "method_amount": 3
         },
-        "string_read": {
+        {
+            "name": "string_read",
             "size": 18,
             "method_amount": 3
         },
-        "single_character": {
+        {
+            "name": "single_character",
             "size": 25,
             "method_amount": 3
         },
-        "each_line": {
+        {
+            "name": "each_line",
             "size": 31,
             "method_amount": 3
         },
-        "single_char": {
+        {
+            "name": "single_char",
             "size": 37,
             "method_amount": 3
         },
-        "sring_builder": {
+        {
+            "name": "string_builder",
             "size": 82,
             "method_amount": 5
         },
-        "string_manager": {
+        {
+            "name": "string_manager",
             "size": 82,
             "method_amount": 4
         },
-        "list_clump": {
+        {
+            "name": "list_clump",
             "size": 87,
             "method_amount": 4
         },
-        "list_clip": {
+        {
+            "name": "list_clip",
             "size": 89,
             "method_amount": 4
         },
-        "string_decrementer": {
+        {
+            "name": "string_decrementer",
             "size": 230,
             "method_amount": 10
         },
-        "char": {
+        {
+            "name": "char",
             "size": 85,
             "method_amount": 3
         },
-        "character": {
+        {
+            "name": "character",
             "size": 87,
             "method_amount": 3
         },
-        "converter": {
+        {
+            "name":  "converter",
             "size": 558,
             "method_amount": 10
-        }
-    }],
-    "table2": [{
-        "preface": {
+        }]
+    ,
+    "table2": [
+        {
+            "name": "preface",
             "size": 7
         },
-        "chapter1": {
+        {
+            "name": "chapter1",
             "size": 12
         },
-        "chapter2": {
+        {
+            "name": "chapter2",
             "size": 10
         },
-        "chapter3": {
+        {
+            "name": "chapter3",
             "size": 12
         },
-        "chapter4": {
+        {
+            "name": "chapter4",
             "size": 10
         },
-        "chapter5": {
+        {
+            "name": "chapter5",
             "size": 12
         },
-        "chapter6": {
+        {
+            "name": "chapter6",
             "size": 12
         },
-        "chapter7": {
+        {
+            "name": "chapter7",
             "size": 12
         },
-        "chapter8": {
+        {
+            "name": "chapter8",
             "size": 12
         },
-        "chapter9": {
+        {
+            "name": "chapter9",
             "size": 8
         },
-        "appendix_a": {
+        {
+            "name": "appendix_a",
             "size": 8
         },
-        "appendix_b": {
+        {
+            "name": "appendix_b",
             "size": 8
         },
-        "appendix_c": {
+        {
+            "name":"appendix_c",
             "size": 20
         },
-        "appendix_d": {
+        {
+            "name": "appendix_d",
             "size": 14
         },
-        "appendix_e": {
+        {
+            "name": "appendix_e",
             "size": 18
         },
-        "appendix_f": {
+        {
+            "name": "appendix_f",
             "size": 12
         }
-    }]
+    ]
 }
