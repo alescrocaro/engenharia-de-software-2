@@ -3,133 +3,163 @@
         {
             "name": "each_char",
             "size": 18,
-            "method_amount": 3
+            "method_amount": 3,
+            "loc_per_method": 0
+
         },
         {
             "name": "string_read",
             "size": 18,
-            "method_amount": 3
+            "method_amount": 3,
+            "loc_per_method": 0
         },
         {
             "name": "single_character",
             "size": 25,
-            "method_amount": 3
+            "method_amount": 3,
+            "loc_per_method": 0
         },
         {
             "name": "each_line",
             "size": 31,
-            "method_amount": 3
+            "method_amount": 3,
+            "loc_per_method": 0
         },
         {
             "name": "single_char",
             "size": 37,
-            "method_amount": 3
+            "method_amount": 3,
+            "loc_per_method": 0
         },
         {
             "name": "string_builder",
             "size": 82,
-            "method_amount": 5
+            "method_amount": 5,
+            "loc_per_method": 0
         },
         {
             "name": "string_manager",
             "size": 82,
-            "method_amount": 4
+            "method_amount": 4,
+            "loc_per_method": 0
         },
         {
             "name": "list_clump",
             "size": 87,
-            "method_amount": 4
+            "method_amount": 4,
+            "loc_per_method": 0
         },
         {
             "name": "list_clip",
             "size": 89,
-            "method_amount": 4
+            "method_amount": 4,
+            "loc_per_method": 0
         },
         {
             "name": "string_decrementer",
             "size": 230,
-            "method_amount": 10
+            "method_amount": 10,
+            "loc_per_method": 0
         },
         {
             "name": "char",
             "size": 85,
-            "method_amount": 3
+            "method_amount": 3,
+            "loc_per_method": 0
         },
         {
             "name": "character",
             "size": 87,
-            "method_amount": 3
+            "method_amount": 3,
+            "loc_per_method": 0
         },
         {
             "name":  "converter",
             "size": 558,
-            "method_amount": 10
+            "method_amount": 10,
+            "loc_per_method": 0
         }]
     ,
     "table2": [
         {
             "name": "preface",
-            "size": 7
+            "size": 7,
+            "loc_per_method": 0
         },
         {
             "name": "chapter1",
-            "size": 12
+            "size": 12,
+            "loc_per_method": 0
         },
         {
             "name": "chapter2",
-            "size": 10
+            "size": 10,
+            "loc_per_method": 0
         },
         {
             "name": "chapter3",
-            "size": 12
+            "size": 12,
+            "loc_per_method": 0
         },
         {
             "name": "chapter4",
-            "size": 10
+            "size": 10,
+            "loc_per_method": 0
         },
         {
             "name": "chapter5",
-            "size": 12
+            "size": 12,
+            "loc_per_method": 0
         },
         {
             "name": "chapter6",
-            "size": 12
+            "size": 12,
+            "loc_per_method": 0
         },
         {
             "name": "chapter7",
-            "size": 12
+            "size": 12,
+            "loc_per_method": 0
         },
         {
             "name": "chapter8",
-            "size": 12
+            "size": 12,
+            "loc_per_method": 0
         },
         {
             "name": "chapter9",
-            "size": 8
+            "size": 8,
+            "loc_per_method": 0
         },
         {
             "name": "appendix_a",
-            "size": 8
+            "size": 8,
+            "loc_per_method": 0
         },
         {
             "name": "appendix_b",
-            "size": 8
+            "size": 8,
+            "loc_per_method": 0
         },
         {
             "name":"appendix_c",
-            "size": 20
+            "size": 20,
+            "loc_per_method": 0
         },
         {
             "name": "appendix_d",
-            "size": 14
+            "size": 14,
+            "loc_per_method": 0
         },
         {
             "name": "appendix_e",
-            "size": 18
+            "size": 18,
+            "loc_per_method": 0
         },
         {
             "name": "appendix_f",
-            "size": 12
+            "size": 12,
+            "loc_per_method": 0
         }
     ]
 }
