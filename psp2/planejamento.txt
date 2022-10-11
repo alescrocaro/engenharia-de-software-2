@@ -1,0 +1,18 @@
+# O que codar
+
+função para calcular integral
+  deve ser calculada com um número num_seg par e arbitrário 
+  calcular mais uma vez com o num_seg dobrado (x2)
+
+  (formula no doc https://github.com/magsilva/psp-training/blob/master/Activity-PSP2/PSP%202%20-%20Programa%205.pdf)
+
+  refazer até a diferença entre os dois resultados for menor que o valor de erro aceitado (e = 0.00001)
+  quando o resultado da diferença for menor que o erro, a integral de valor menor é retornada
+
+  no exemplo do doc, utiliza-se os valores:
+  x = 1.1
+  w = x/num_seg
+  e = 0.00001
+  dof = 9
+  e uma dada f(x)
+  para calcular f(x) deve-se calcular a função gamma definida no doc
