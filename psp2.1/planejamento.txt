@@ -1,0 +1,9 @@
+Que função é pra integrar? no slide n tem infos............
+O que é o dof da tabela 1? isso não foi explicado em nenhum momento no pdf...
+O que é o d da tabela de passos? isso não foi explicado em nenhum momento no pdf...
+
+fazer função para calcular integral
+
+fazer função para realizar busca de x
+  x = 1
+  calc integral
