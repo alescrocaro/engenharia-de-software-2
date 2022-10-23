@@ -1,9 +1,29 @@
-Que função é pra integrar? no slide n tem infos............
+Que função é pra integrar? infos do slide estão confusas
 O que é o dof da tabela 1? isso não foi explicado em nenhum momento no pdf...
 O que é o d da tabela de passos? isso não foi explicado em nenhum momento no pdf...
 
-fazer função para calcular integral
+Tive que pausar para descobrir isso, perguntei ao professor via e-mail, às 18h (22/10/2022), a duvida foi esclarecida depois de algumas trocas de e-mail às 23h40 (22/10/2022). Ocupado com outros trabalhos da faculdade só retomei o psp às 19h10 do outro dia (23/10/2022).
 
-fazer função para realizar busca de x
-  x = 1
-  calc integral
+Pelo que o professor falou, acho que vou reaproveitar bastante código do programa 5, em torno de 40 linhas.
+
+Ao invés de fornecer x, iremos fornecer p (que antes era o resultado), e procurar por um x que satisfaça
+Implementar função para realizar busca de x
+  1- x = 1,
+  2- calcular integral e verificar se resultado está na margem de erro,
+  caso não esteja, verificar:
+  3-   resultado muito baixo: x = x+d, sendo d = 0.5
+  4-   resultado muito alto: x = x-d, sendo d = 0.5
+  5- calcular integral e verificar se resultado está na margem de erro,
+  caso não esteja, verificar:
+       ajustar_d()
+  6-   resultado muito baixo: x = x+d
+  7-   resultado muito alto: x = x+d, sendo d = 0.5
+  8- recomecar passo 5
+
+  def ajustar_d():  
+    se sinal (+-) da integração = sinal do erro, d não muda
+    senão d = d/2
+
+    ajustar d pode resultar em um x = 0, assegurar que o programa tratará corretamente a existencia do valor 0 para a função a ser integrada
+    como fazer isso???
+    não encontrei nada na net, vou devolver um erro apenas (pelo menos por enquanto, até tirar a dúvida com o professor na aula de amanhã - 24/10/2022)
