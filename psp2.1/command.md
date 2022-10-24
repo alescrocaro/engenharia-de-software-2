@@ -1,5 +1,5 @@
 # How to run the tests
 
 ```bash
-pytest -v --cov=regressaoLinear test.py
+pytest -v --cov=main test.py
 ```
