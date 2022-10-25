@@ -38,10 +38,12 @@ E os testes realizados foram os abaixo (também encontrados no arquivo test.py)\
 
 
 ## Lista de verificação de projeto
+Revi o projeto todo - exceto código - em busca de padrões errados, dados faltantes e itens nesse sentido.
 
 
 
 ## Lista de verificação de código
+Utilizei os links passados pelo professor para fazer o code review, focando no que podia ser melhorado, padrão de código e testes para encontrar bugs.
 
 
 
