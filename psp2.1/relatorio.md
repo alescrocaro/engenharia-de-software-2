@@ -16,10 +16,10 @@
 
 
 ### Resumo do planejamento de tamanho
-![image](https://user-images.githubusercontent.com/37521313/197647801-8cc18fdb-8fb6-4422-b8e8-0326fe4f996b.png)
+![image](https://user-images.githubusercontent.com/37521313/197652236-929e3cd4-c5bb-42d0-bbae-3d13ebc4c98a.png)
 
 
-![image](https://user-images.githubusercontent.com/37521313/197647936-470ee19b-9267-4c49-8ddf-bff8cedef803.png)
+![image](https://user-images.githubusercontent.com/37521313/197652290-a2872060-02e8-4bee-ac78-7c0f8518422f.png)
 
 
 
@@ -92,7 +92,7 @@ Realiza a busca do valor de x, seguindo os passos presentes no [documento de req
 
 
 ## Registro de tempo
-![image](https://user-images.githubusercontent.com/37521313/197651879-dfc78834-2284-444b-a432-56b714e149e2.png)
+![image](https://user-images.githubusercontent.com/37521313/197652045-1255c50c-3a74-4ae4-b8bf-f529d2ee194e.png)
 
 
 
