@@ -97,6 +97,27 @@ Realiza a busca do valor de x, seguindo os passos presentes no [documento de req
 
 
 ## Registro de erros
+### Defeito 1
+#### Inserido
+Code
+#### Removido
+Code
+#### Descrição
+eu havia esquecido de mudar a chamada da função integral, pois mudei sua declaração inserindo a variavel dof
+
+### Defeito 2
+#### Inserido
+Planning
+#### Removido
+Code
+#### Descrição
+Programei toda a logica e o resultado não foi o esperado, então comecei a procurar pelo bug.
+com 16 minutos encontrei o bug: o d não está mudando nunca.
+com 18 minutos, encontrei a causa do bug, erro no planejamento: estava comparando variaveis erradas; ao invés de comparar o sinal do erro da integracao com o erro aceitavel, comparei o sinal do erro aceitavel com o sinal da integracao.
+nao cheguei a uma solucao entao vou perguntar ao professor.
+descobri o que estava acontecendo mas nao consegui resolver, entao encontrei uma forma de contornar o bug.
+
+### Resumo
 ![image](https://user-images.githubusercontent.com/37521313/197651914-1d8c8ec6-1887-4fe7-b5a0-03e912479859.png)
 
 
