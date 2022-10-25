@@ -1,7 +1,7 @@
 # Relatório PSP2.1
 
 **Autor:** Alexandre Aparecido Scrocaro Junior \
-**email:** alescrocaro@gmail.com
+**email:** alexandre.2001@alunos.utfpr.edu.br ou alescrocaro@gmail.com 
 
 **Professor:** Marco Aurélio Graciotto Silva\
 **Universidade Tecnológica Federal do Paraná (UTFPR)**
