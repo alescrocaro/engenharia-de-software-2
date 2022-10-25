@@ -10,10 +10,11 @@
 ### Relatório do planejamento de código e lógica
 ![image](https://user-images.githubusercontent.com/37521313/197648190-bb8d4c0f-c590-4fbc-9b65-9683d2dc329f.png)
 
-
-### Resumo do planejamento de tempo
+### Resumo de planejamento de projeto
 ![image](https://user-images.githubusercontent.com/37521313/197647745-d5276d04-6b9a-4530-8a35-62f071758935.png)
 
+### Resumo do planejamento de tempo
+![image](https://user-images.githubusercontent.com/37521313/197652564-6765bfd0-c635-4163-86f9-cb5dbd4537b0.png)
 
 ### Resumo do planejamento de tamanho
 ![image](https://user-images.githubusercontent.com/37521313/197652236-929e3cd4-c5bb-42d0-bbae-3d13ebc4c98a.png)
