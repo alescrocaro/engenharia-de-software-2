@@ -56,17 +56,16 @@ A única proposta seria explicitar mais acerca da função a ser utilizada.
 
 
 ## Modelo para estimativa de tamanho
-![image](https://user-images.githubusercontent.com/37521313/197647801-8cc18fdb-8fb6-4422-b8e8-0326fe4f996b.png)
+![image](https://user-images.githubusercontent.com/37521313/197652676-ab5fe0cd-48b6-4c39-a0cb-276bd9269ff4.png)
 
-
-![image](https://user-images.githubusercontent.com/37521313/197647936-470ee19b-9267-4c49-8ddf-bff8cedef803.png)
+![image](https://user-images.githubusercontent.com/37521313/197652720-f730f2c7-9c0e-4bba-85cf-2c07dbbe2590.png)
 
 
 
 ## Folha de cálculos do PROBE
-![image](https://user-images.githubusercontent.com/37521313/197650485-8be2d662-32a6-4b4c-83f9-7fbee3d35093.png)
+![image](https://user-images.githubusercontent.com/37521313/197652783-ca7ced91-09b1-4fd8-a778-8c40d7a0b19a.png)
 
-![image](https://user-images.githubusercontent.com/37521313/197650518-0c1d7051-3618-4fdd-b706-4753827d5112.png)
+![image](https://user-images.githubusercontent.com/37521313/197652811-71606a75-7584-4908-a04b-afb9043e06e9.png)
 
 
 
